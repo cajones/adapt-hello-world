@@ -1,0 +1,14 @@
+{
+  "name": "adapt-hello-world",
+  "version": "0.0.2",
+  "homepage": "https://github.com/cajones/adapt-hello-world",
+  "authors": [
+    "Chris Jones <chris.jones@spongeuk.com>"
+  ],
+  "description": "a really simple adapt plugin",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
