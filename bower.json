@@ -6,6 +6,7 @@
     "Chris Jones <chris.jones@spongeuk.com>"
   ],
   "description": "a really simple adapt plugin",
+  "main": "/js/helloWorld.js",
   "keywords": [
     "adapt-plugin",
     "adapt-component"
