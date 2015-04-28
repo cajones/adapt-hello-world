@@ -12,6 +12,7 @@
     "adapt-component"
   ],
   "license": "GPLv3",
+  "framework": ["1.0.0","2.*"],
   "dependencies": {
     "adapt-contrib-text": "*"
   }
